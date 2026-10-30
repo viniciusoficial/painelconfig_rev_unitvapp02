@@ -1,7 +1,7 @@
 [
     {
         "device_id": "3719bc141836b106",
-        "blocked": true,
+        "blocked": false,
         "message": "",
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
