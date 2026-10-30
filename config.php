@@ -1,7 +1,7 @@
 <?php
 define('GITHUB_TOKEN', getenv('GITHUB_TOKEN') ?: '');
 define('ADMIN_PASSWORD', 'digital');
-define('PUBLIC_APP_KEY', 'desenvolvedorviniciusbb');
+define('PUBLIC_APP_KEY', 'desenvolvedorviniciusbb2');
 define('GITHUB_OWNER', 'viniciusoficial');
 define('GITHUB_REPOSITORY', 'painelconfig_rev_unitvapp02');
 define('GITHUB_BRANCH', 'main');
