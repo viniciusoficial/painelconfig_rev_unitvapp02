@@ -1,7 +1,7 @@
 [
     {
-        "blocked": false,
-        "message": "",
+        "blocked": true,
+        "message": "Bloqueado viu espertinho, me paga rapaz",
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
         "last_seen": "2026-10-30T17:51:37+00:00",
